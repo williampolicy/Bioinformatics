@@ -1,2 +1,2 @@
-# Boiinformatics
-Boiinformatics
+# Bioinformatics
+Bioinformatics
