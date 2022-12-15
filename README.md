@@ -38,3 +38,12 @@ git remote set-url origin https://<githubtoken>@github.com/<username>/<repositor
 ```
 git push -u origin main
 ```
+
+
+### log
+1. get data.
+2. preprocess. 
+3. building modle. 
+4. show result. 
+5. compare results.
+2022.12.13. 
