@@ -80,3 +80,9 @@ Hope that helped! Reference: https://github.com/BVLC/caffe/issues/3884
 while [ ! -z $CONDA_PREFIX ]; do conda deactivate; done
 ```
 can work. deactive base env.
+note: if conda not set right for enviroment. then i will get INTEL MKL ERROR:  when i import lib. 
+so we can deactivate conda. 
+done. 2022.12.18
+OK. 
+
+
